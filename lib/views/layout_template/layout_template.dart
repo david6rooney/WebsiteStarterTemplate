@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:responsive_builder/responsive_builder.dart';
-import 'package:WebsiteStartingTemplate/widgets/centered_view/centered_view.dart';
+
+// TODO - add imports
 
 class LayoutTemplate extends StatelessWidget {
   final Widget child;

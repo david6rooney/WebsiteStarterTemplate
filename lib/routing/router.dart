@@ -1,9 +1,7 @@
-import 'package:WebsiteStartingTemplate/routing/route_names.dart';
-import 'package:WebsiteStartingTemplate/views/about/about_view.dart';
-import 'package:WebsiteStartingTemplate/views/home/home_view.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
+// TODO - add imports
 
 Route<dynamic> generateRoute(RouteSettings settings) {
   switch (settings.name) {

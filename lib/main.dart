@@ -1,9 +1,7 @@
 import 'locator.dart';
 import 'package:flutter/material.dart';
-import 'package:WebsiteStartingTemplate/services/navigation_service.dart';
-import 'package:WebsiteStartingTemplate/routing/router.dart';
-import 'package:WebsiteStartingTemplate/routing/route_names.dart';
-import 'package:WebsiteStartingTemplate/views/layout_template/layout_template.dart';
+
+// TODO - add imports
 
 void main() {
   setupLocator();
